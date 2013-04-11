@@ -38,3 +38,7 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 # gem 'dry_crud', '= 1.7.0'
+
+group :production do
+  gem 'pg', '0.12.2'
+end
