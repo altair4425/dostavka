@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  number_order: 1
+  passenger: MyString
+  customer: MyString
+  customer_phone: MyString
+  delivery_address: MyString
+  sum: MyString
+  note: MyString
+
+two:
+  number_order: 1
+  passenger: MyString
+  customer: MyString
+  customer_phone: MyString
+  delivery_address: MyString
+  sum: MyString
+  note: MyString

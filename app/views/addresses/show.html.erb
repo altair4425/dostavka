@@ -1,0 +1,53 @@
+<p id="notice"><%= notice %></p>
+
+
+
+  <div class="field">
+    <%= f.label :delivery_date %><br />
+    <%= f.number_field :delivery_date %>
+  </div>
+
+
+<p>
+  <b>Delivery date:</b>
+  <%= @address.delivery_date %>
+</p>
+
+<p>
+  <b>Number order:</b>
+  <%= @address.number_order %>
+</p>
+
+<p>
+  <b>Passenger:</b>
+  <%= @address.passenger %>
+</p>
+
+<p>
+  <b>Customer:</b>
+  <%= @address.customer %>
+</p>
+
+<p>
+  <b>Customer phone:</b>
+  <%= @address.customer_phone %>
+</p>
+
+<p>
+  <b>Delivery address:</b>
+  <%= @address.delivery_address %>
+</p>
+
+<p>
+  <b>Sum:</b>
+  <%= @address.sum %>
+</p>
+
+<p>
+  <b>Note:</b>
+  <%= @address.note %>
+</p>
+
+
+<%= link_to 'Edit', edit_address_path(@address) %> |
+<%= link_to 'Back', addresses_path %>
