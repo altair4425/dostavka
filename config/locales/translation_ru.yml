@@ -1,0 +1,15 @@
+ru:
+  activerecord:
+    models:
+      address: address  #g
+
+    attributes:
+      address:
+        customer: Заказчик  #g
+        customer_phone: Телефон заказчика  #g
+        delivery_address: Адрес доставки  #g
+        delivery_date: Дата доставки  #g
+        note: Примечание  #g
+        number_order: Номер заказа  #g
+        passenger: Пассажир  #g
+        sum: Сумма  #g
