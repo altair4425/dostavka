@@ -1,0 +1,19 @@
+---
+actions/add.png: actions/add-d4d91f45d287a9321b4ef90a5e275eff.png
+actions/add/index.png: actions/add-d4d91f45d287a9321b4ef90a5e275eff.png
+actions/delete.png: actions/delete-347854b76d491352f5429d86706e1f79.png
+actions/delete/index.png: actions/delete-347854b76d491352f5429d86706e1f79.png
+actions/edit.png: actions/edit-6bbfa301b576e8d88ab19c8b09612c4b.png
+actions/edit/index.png: actions/edit-6bbfa301b576e8d88ab19c8b09612c4b.png
+actions/list.png: actions/list-6a63dc8cdac4f752918d8d27a6d5c5c2.png
+actions/list/index.png: actions/list-6a63dc8cdac4f752918d8d27a6d5c5c2.png
+actions/show.png: actions/show-e72255c76f8ea47779ecbb812fc71ed3.png
+actions/show/index.png: actions/show-e72255c76f8ea47779ecbb812fc71ed3.png
+rails.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
+rails/index.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
+application.js: application-f1fdba3a9340fdbc1ec24be10f8d4a54.js
+application/index.js: application-f1fdba3a9340fdbc1ec24be10f8d4a54.js
+application.css: application-129cdac4d40980b9cf04c973496bec83.css
+application/index.css: application-129cdac4d40980b9cf04c973496bec83.css
+jquery.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
+jquery/index.min.map: jquery.min-6c267bfd2b3f36e6edccb2e584934c1c.map
